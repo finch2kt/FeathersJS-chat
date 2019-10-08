@@ -1,0 +1,3 @@
+{"email":"hello@feathersjs.com","password":"$2a$10$1fJMET9lNIiVrS71o6HtpOpaZfnjTy1x9EAAy2f2VuR7pGfvqYEUe","avatar":"https://s.gravatar.com/avatar/ffe2a09df37d7c646e974a2d2b8d3e03?s=60","_id":"lIOXwQW5jRkXL3XT"}
+{"email":"someone@example.com","password":"$2a$10$TVWZH9JtedNWKnk5MBf8MO7VSdBLEQd0ZPwLIU94HupXY5eHoLZuO","avatar":"https://s.gravatar.com/avatar/16d113840f999444259f73bac9ab8b10?s=60","_id":"pYgj0aMI08vAeASa"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
